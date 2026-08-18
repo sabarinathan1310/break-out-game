@@ -109,9 +109,8 @@ The game displays the "YOU WON" or "GAME OVER" screen based on the game status.
 
 Add screenshots of your game here:
 
-```markdown
 ![Gameplay Screenshot](gameplay.png)
-```markdown
+
 
 ## Future Improvements
 
